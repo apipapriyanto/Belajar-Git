@@ -1,0 +1,15 @@
+body {
+    margin: 0px;
+}
+
+.table {
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.tb-1 {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
+
